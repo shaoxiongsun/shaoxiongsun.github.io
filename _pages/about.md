@@ -39,16 +39,9 @@ My research interests primarily revolve around physiological and behavioural mon
 
 ### Visiting Scholars
 
-- **Ling Zhang 3** (2026-present): Machine learning for remote mental health monitoring.
+- **[Ling Zhang](https://software.jxufe.edu.cn/news-show-2956.html)** (2026-present): Machine learning for remote mental health monitoring.
 
 
-
-
-
-
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📝 Publications 
 
