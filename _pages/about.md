@@ -30,18 +30,14 @@ My research interests primarily revolve around physiological and behavioural mon
 
 ### PhD Students
 
-- **[Student Name](链接)** (2023 – present): Research on NLP and LLMs. [[Email]](mailto:xxx@sheffield.ac.uk)
-- **Student Name 2** (2024 – present): Research on multimodal learning.
+- **[Xiaofei Zhang](链接)** (2025 – present): Mixed-effects deep learning for patient monitoring. [[Email]](mailto:xxx@sheffield.ac.uk)
+- **Lucy M Cheesman ** (2025 – present): Developing digital biomarkers for people with Multiple Sclerosis.
 
-### Master Students
+### Visiting Scholars
 
-- **Student Name 3** (2024): Research on data mining.
+- **Ling Zhang 3** (2026): Research on data mining.
 
-### Alumni
 
-| Name | Degree | Year | Current |
-|------|--------|------|---------|
-| John Doe | PhD | 2023 | Postdoc @ Oxford |
 
 
 
