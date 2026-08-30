@@ -111,10 +111,10 @@ Citations = 1372, h-index = 20 ([Google Scholar](https://scholar.google.com/cita
 - **Editorial Board**, BMC Global and Public Health, Digital Medicine Letter
 - **Guest Editor**, 4 journals including Frontiers in Digital Health
 - **Founding Member and Area Chair**, The IEEE IoWT Working Group
-- **Technical Programme Committee Member**, IEEE/ACM CHASE, IEEE BSN
 - **Grant Reviewer**, UK Medical Research Council, UK MS Society
 - **Journal Reviewer**, 15+ academic journals including IEEE JBHI, IEEE TBME, npj Digital Medicine, Scientific Reports, and JMIR
-- **Conference Reviewer**, Interspeech, Ubicomp
+- **Technical Programme Committee Member**, IEEE/ACM CHASE, IEEE BSN
+- **Conference Reviewer**, AAAI, Interspeech, Ubicomp, EMBC
 
 # 🎖 Honors and Awards
 - *2023* **Department Travel Grant**, King's College London
