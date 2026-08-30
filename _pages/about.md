@@ -78,7 +78,7 @@ My research interests primarily revolve around physiological and behavioural mon
 - *2026.03*, AI in Medicine Seminar, UT Southwestern Medical Center, USA, invited by Dr. Ti Bai
 - *2025.07*, School of Biomedical Engineering, Sun Yat-sen University, China, invited by Prof. Changhong Wang
   
-# 💻 Industrial Consultation
+# 💻 Industrial Experience
 - Metabolic monitoring, [Epicore Biosystems](https://epicorebiosystems.com/)
 - Heart rate monitoring, [Lifesense](https://lifesense.com/)
 - Patient monitoring, [Philips Research](https://www.philips.com/a-w/about/innovation.html)
