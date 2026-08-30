@@ -66,9 +66,6 @@ My research interests primarily revolve around physiological and behavioural mon
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
 - *2013.09 - 2018.05*, PhD, Electrical Engineering, Eindhoven University of Technology, Netherlands
@@ -84,6 +81,7 @@ My research interests primarily revolve around physiological and behavioural mon
 # 💻 Industrial Consultation
 - Metabolic monitoring, [Epicore Biosystems](https://epicorebiosystems.com/)
 - Heart rate monitoring, [Lifesense](https://lifesense.com/)
+- Patient monitoring, [Philips Research](https://www.philips.com/a-w/about/innovation.html)
 
 <span class='anchor' id='academic-service'></span>
 
@@ -97,3 +95,7 @@ My research interests primarily revolve around physiological and behavioural mon
 - **Grant Reviewer**, UK Medical Research Council, UK MS Society
 - **Journal Reviewer**, 15+ academic journals including IEEE JBHI, IEEE TBME, npj Digital Medicine, Scientific Reports, and JMIR
 
+
+# 🎖 Honors and Awards
+- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
