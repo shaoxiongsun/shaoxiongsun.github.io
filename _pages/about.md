@@ -48,7 +48,7 @@ My research interests include:
 
 
 <p style="color:red;">
-<strong>[Join us]</strong> I am looking for self-motivated PhD students, visiting students, and interns. Send me your CV if interested in working with us (shaoxiong dot sun at sheffield dot ac dot uk).
+<strong>[Join us]</strong> I am looking for self-motivated PhD students, visiting students, and interns. If you are interested, please send your CV to (shaoxiong dot sun at sheffield dot ac dot uk).
 </p>
 
 # 📝 Publications
