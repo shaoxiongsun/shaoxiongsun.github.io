@@ -24,6 +24,7 @@ I have authored over 30 peer-reviewed publications and holds two granted patents
 My research interests primarily revolve around physiological and behavioural monitoring, leveraging advanced signal processing and machine learning methodologies. In the realm of physiological monitoring, I focus on estimating vital parameters such as blood pressure, heart rate, and respiration rate through the analysis of biomedical signals, such as photoplethysmography (PPG). In behavioural monitoring, my work centres on assessing mobility and social interaction patterns using wearable devices and smartphones. I have developed innovative technologies aimed at assisting individuals with a range of medical conditions, including depression, multiple sclerosis, epilepsy, ADHD, and COVID-19.
 
 
+
 <span class='anchor' id='team'></span>
 
 ## 👥 Team
@@ -42,6 +43,9 @@ My research interests primarily revolve around physiological and behavioural mon
 - **[Ling Zhang](https://software.jxufe.edu.cn/news-show-2956.html)** (2026-present): Machine learning for remote mental health monitoring.
 
 
+<p style="color:red;">
+<strong>[Join us]</strong> I am looking for self-motivated PhD students, visiting students, and interns. Send me your CV if interested in working with us.
+</p>
 
 # 📝 Publications
 
