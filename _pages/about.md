@@ -97,5 +97,9 @@ My research interests primarily revolve around physiological and behavioural mon
 
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023* **Department Travel Grant**, King's College London
+- *2018* **UbiComp/ISWC Junior Faculty/Postdoc Travel Grant**, UbiComp/ISWC
+- *2010-2013* **Graduate Excellence Scholarship**, Dalian University of Technology
+- *2011* **Second Prize, Mindray Cup Innovation Design Contest**, Mindray Medical Corp.
+- *2008* **Excellent Student Leader**, Harbin Institute of Technology
+- *2007* **Academic Excellence Scholarship**, Harbin Institute of Technology
