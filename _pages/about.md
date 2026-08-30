@@ -23,7 +23,11 @@ I have authored over 30 peer-reviewed publications and holds two granted patents
 
 My research interests primarily revolve around physiological and behavioural monitoring, leveraging advanced signal processing and machine learning methodologies. In the realm of physiological monitoring, I focus on estimating vital parameters such as blood pressure, heart rate, and respiration rate through the analysis of biomedical signals, such as photoplethysmography (PPG). In behavioural monitoring, my work centres on assessing mobility and social interaction patterns using wearable devices and smartphones. I have developed innovative technologies aimed at assisting individuals with a range of medical conditions, including depression, multiple sclerosis, epilepsy, ADHD, and COVID-19.
 
-
+My research interests include:
+- Health data science
+- Bedside and remote patient monitoring
+- Wearable computing
+- Cardiovascular monitoring
 
 <span class='anchor' id='team'></span>
 
