@@ -49,12 +49,17 @@ My research interests primarily revolve around physiological and behavioural mon
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2013.09 - 2018.05*, PhD, Electrical Engineering, Eindhoven University of Technology, Netherlands
+- *2010.09 - 2013.06*, MSc, Signal and Information Processing, Dalian University of Technology, China (exempt from entrance exam)
+- *2006.08 - 2010.07*, BSc, Electronic Information Engineering, Harbin Institute of Technology, China,  
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2026.08*, Medicine-Engineering Interdisciplinary Seminar, Hefei University of Technology, China (Remote), invited by Prof. Xuenan Liu
+- *2026.07*, Clinical Trial Units, University of Alberta, Canada, invited by Prof. Giovanni Ferrara
+- *2026.03*, AI in Medicine Seminar, UT Southwestern Medical Center, USA, invited by Dr. Ti Bai
+- *2025.07*, School of Biomedical Engineering, Sun Yat-sen University, China, invited by Prof. Changhong Wang
+  
+# 💻 Industrial Consultation
+- Metabolic monitoring, Epicore Biosystems (https://epicorebiosystems.com/)
+- Heart rate monitoring, Lifesense (https://lifesense.com/)
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
