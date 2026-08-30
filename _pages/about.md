@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Lecturer in Pervasive Data Science within the School of Computer Science at the University of Sheffield. Previously, I worked as a Senior Research Associate in Data Science for Mobile Health at King’s College London. He earned his PhD through a joint programme between Eindhoven University of Technology (TU/e) and Philips Research in the Netherlands, where my research focused on physiological monitoring. I earned his BEng and MEng in Electrical Engineering from Harbin Institute of Technology and Dalian University of Technology, China, respectively.
+I am a Lecturer in Pervasive Data Science within the School of Computer Science at the University of Sheffield. Previously, I worked as a Senior Research Associate in Data Science for Mobile Health at King’s College London. 
 
 I have authored over 30 peer-reviewed publications and holds two granted patents in the United States and Europe. I have served on the Technical Program Committees of IEEE CHASE and IEEE BSN, the Notes and Briefs track of Ubicomp/ISWC, and am a founding member of the IEEE Internet of Wearable Things Working Group. I also serve on the Editorial Board of BMC Global and Public Health and have been a Guest Editor for Frontiers in Signal Processing, Frontiers in Digital Health, Sensors, and Algorithms.
 
@@ -60,6 +60,6 @@ My research interests primarily revolve around physiological and behavioural mon
 - *2025.07*, School of Biomedical Engineering, Sun Yat-sen University, China, invited by Prof. Changhong Wang
   
 # 💻 Industrial Consultation
-- Metabolic monitoring, Epicore Biosystems (https://epicorebiosystems.com/)
-- Heart rate monitoring, Lifesense (https://lifesense.com/)
+- Metabolic monitoring, [Epicore Biosystems](https://epicorebiosystems.com/)
+- Heart rate monitoring, [Lifesense](https://lifesense.com/)
 
