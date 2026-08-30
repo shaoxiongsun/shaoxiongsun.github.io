@@ -60,7 +60,7 @@ My research interests primarily revolve around physiological and behavioural mon
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 
-# 📖 Educations
+# 🎓 Educations
 - *2013.09 - 2018.05*, PhD, Electrical Engineering, Eindhoven University of Technology, Netherlands
 - *2010.09 - 2013.06*, MSc, Signal and Information Processing, Dalian University of Technology, China (exempt from entrance exam)
 - *2006.08 - 2010.07*, BSc, Electronic Information Engineering, Harbin Institute of Technology, China,  
@@ -71,14 +71,14 @@ My research interests primarily revolve around physiological and behavioural mon
 - *2026.03*, AI in Medicine Seminar, UT Southwestern Medical Center, USA, invited by Dr. Ti Bai
 - *2025.07*, School of Biomedical Engineering, Sun Yat-sen University, China, invited by Prof. Changhong Wang
   
-# 💻 Industrial Experience
+# 🏭 Industrial Experience
 - Metabolic monitoring, [Epicore Biosystems](https://epicorebiosystems.com/)
 - Heart rate monitoring, [Lifesense](https://lifesense.com/)
 - Patient monitoring, [Philips Research](https://www.philips.com/a-w/about/innovation.html)
 
 <span class='anchor' id='academic-service'></span>
 
-# 🏛️ Academic Service
+# 📖 Academic Service
 
 - **Associate Editor**, IEEE Journal of Biomedical and Health Informatics (JBHI)
 - **Editorial Board**, BMC Global and Public Health, Digital Medicine Letter
