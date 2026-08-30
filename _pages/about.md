@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Lecturer in Pervasive Data Science within the School of Computer Science at the University of Sheffield. Previously, I worked as a Senior Research Associate in Data Science for Mobile Health at King’s College London. 
+I am a Lecturer in Pervasive Data Science within the School of Computer Science at the University of Sheffield. Previously, I worked as a Senior Research Associate in Data Science for Mobile Health at King’s College London. I earned my PhD through a joint programme between Eindhoven University of Technology (TU/e) and Philips Research in the Netherlands, where his research focused on physiological monitoring. He earned his BSc and MSc from Harbin Institute of Technology and Dalian University of Technology, China, respectively.
 
 I have authored over 30 peer-reviewed publications and holds two granted patents in the United States and Europe. I have served on the Technical Program Committees of IEEE CHASE and IEEE BSN, the Notes and Briefs track of Ubicomp/ISWC, and am a founding member of the IEEE Internet of Wearable Things Working Group. I also serve on the Editorial Board of BMC Global and Public Health and have been a Guest Editor for Frontiers in Signal Processing, Frontiers in Digital Health, Sensors, and Algorithms.
 
@@ -84,4 +84,16 @@ My research interests primarily revolve around physiological and behavioural mon
 # 💻 Industrial Consultation
 - Metabolic monitoring, [Epicore Biosystems](https://epicorebiosystems.com/)
 - Heart rate monitoring, [Lifesense](https://lifesense.com/)
+
+<span class='anchor' id='academic-service'></span>
+
+# 🏛️ Academic Service
+
+- **Associate Editor**, IEEE Journal of Biomedical and Health Informatics (JBHI)
+- **Editorial Board**, BMC Global and Public Health, Digital Medicine Letter
+- **Guest Editor**, 4 journals including Frontiers in Digital Health
+- **Founding Member and Area Chair**, The IEEE IoWT Working Group
+- **Technical Programme Committee Member**, IEEE/ACM CHASE, IEEE BSN
+- **Grant Reviewer**, UK Medical Research Council, UK MS Society
+- **Journal Reviewer**, 15+ academic journals including IEEE JBHI, IEEE TBME, npj Digital Medicine, Scientific Reports, and JMIR
 
