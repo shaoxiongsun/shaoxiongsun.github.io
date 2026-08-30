@@ -15,10 +15,9 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-
-
-
 <span class='anchor' id='about-me'></span>
+
+# About Me
 
 I am a Lecturer in Pervasive Data Science within the School of Computer Science at the University of Sheffield. Previously, I worked as a Senior Research Associate in Data Science for Mobile Health at King's College London. I earned my PhD through a joint programme between Eindhoven University of Technology (TU/e) and Philips Research in the Netherlands, where my research focused on physiological monitoring. I earned my BSc and MSc from Harbin Institute of Technology and Dalian University of Technology, China, respectively.
 
