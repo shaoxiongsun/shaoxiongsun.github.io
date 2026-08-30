@@ -49,35 +49,36 @@ Citations = 1372, h-index = 20 ([Google Scholar](https://scholar.google.com/cita
 
 ## Selected Journal Articles
 
-- Zhang J., Zhang J., Shull P., Park C., **Sun, S.**, Najafi B., Wang C. (2026). [Daily activity patterns from wearable accelerometry predict physical frailty and concern about falling](https://scholar.google.com/citations?user=NzjzczAAAAAJ&hl=en). *npj Digital Medicine*.
+- Zhang J., Zhang J., Shull P., Park C., **Sun, S.**, Najafi B., Wang C. (2026). Daily activity patterns from wearable accelerometry predict physical frailty and concern about falling. *npj Digital Medicine*.
 
-- Zhang, Y., Folarin, A.A., Ranjan, Y. et al. (2025). [Assessing seasonal and weather effects on depression and physical activity using mobile health data](https://scholar.google.com/citations?user=NzjzczAAAAAJ&hl=en). *npj Mental Health Research*, 4(11).
+- Zhang, Y., Folarin, A.A., Ranjan Y. et al. (2025). Assessing seasonal and weather effects on depression and physical activity using mobile health data. *npj Mental Health Research*, 4(11).
 
-- Stewart C., Ranjan Y., Conde P., **Sun, S.**, Zhang Y., et al. (2024). [Physiological presentation and risk factors of long COVID in the UK using smartphones and wearable devices: a longitudinal, citizen science, case–control study](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(24)00100-6/fulltext). *Lancet Digital Health*, 6(9):e640–e650.
+- Stewart C., Ranjan Y., Conde P., **Sun, S.**, Zhang Y., et al. (2024). Physiological presentation and risk factors of long COVID in the UK using smartphones and wearable devices: a longitudinal, citizen science, case–control study. *Lancet Digital Health*, 6(9):e640–e650.
 
-- Zhang D., Peng Z., **Sun, S.**, van Pul C., Shan C., et al. (2024). [Characterising the motion and cardiorespiratory interaction of preterm infants can improve the classification of their sleep state](https://scholar.google.com/citations?user=NzjzczAAAAAJ&hl=en). *Acta Paediatrica*, 113(6):1236–1245.
+- Zhang D., Peng Z., **Sun, S.**, van Pul C., Shan C., et al. (2024). Characterising the motion and cardiorespiratory interaction of preterm infants can improve the classification of their sleep state. *Acta Paediatrica*, 113(6):1236–1245.
 
-- **Sun, S.**, Folarin A.A., Ranjan Y., et al. (2023). [Challenges in the analysis of mobile health data from smartphones and wearable devices to predict depression symptom severity](https://www.jmir.org/2023/1/e45233). *JMIR*, 25:e45233.
+- **Sun, S.**, Folarin A.A., Ranjan Y., et al. (2023). Challenges in the analysis of mobile health data from smartphones and wearable devices to predict depression symptom severity. *JMIR*, 25:e45233.
 
-- **Sun, S.**, Denyer H., Sankesara H., et al. (2023). [Remote administration of ADHD-sensitive cognitive tasks: a pilot study](https://scholar.google.com/citations?user=NzjzczAAAAAJ&hl=en). *Journal of Attention Disorders*, 27(9):1040–1050.
+- **Sun, S.**, Denyer H., Sankesara H., et al. (2023). Remote administration of ADHD-sensitive cognitive tasks: a pilot study. *Journal of Attention Disorders*, 27(9):1040–1050.
 
-- **Sun, S.**, Bresch E., Muehlsteff J., Schmitt L., Long X., Bezemer R., Aarts R.M. (2023). [Systolic blood pressure estimation using ECG and PPG in patients undergoing surgery](https://scholar.google.com/citations?user=NzjzczAAAAAJ&hl=en). *Biomedical Signal Processing and Control*, 79(1):104040.
+- **Sun, S.**, Bresch E., Muehlsteff J., Schmitt L., Long X., Bezemer R., Aarts R.M. (2023). Systolic blood pressure estimation using ECG and PPG in patients undergoing surgery. *Biomedical Signal Processing and Control*, 79(1):104040.
 
-- **Sun, S.**, Folarin A.A., Ranjan Y., et al. (2022). [The utility of wearable devices in assessing ambulatory impairments of patients with multiple sclerosis in free-living conditions](https://scholar.google.com/citations?user=NzjzczAAAAAJ&hl=en). *Computer Methods and Programs in Biomedicine*, 227:107204.
+- **Sun, S.**, Folarin A.A., Ranjan Y., et al. (2022). The utility of wearable devices in assessing ambulatory impairments of patients with multiple sclerosis in free-living conditions. *Computer Methods and Programs in Biomedicine*, 227:107204.
 
-- **Sun, S.**, Folarin A.A., Ranjan Y., et al. (2020). [Using smartphones and wearable devices to monitor behavioural changes during COVID-19](https://www.jmir.org/2020/9/e19992). *JMIR*, 22(9):e19992.
+- **Sun, S.**, Folarin A.A., Ranjan Y., et al. (2020). Using smartphones and wearable devices to monitor behavioural changes during COVID-19. *JMIR*, 22(9):e19992.
 
-- **Sun, S.**, Peeters W.H., Bezemer R., Long X., Paulussen I., Aarts R.M., Noordergraaf G.J. (2018). [Finger and forehead PPG-derived pulse-pressure variation and the benefits of baseline correction](https://scholar.google.com/citations?user=NzjzczAAAAAJ&hl=en). *Journal of Clinical Monitoring and Computing*, 33(1):65–75.
+- **Sun, S.**, Peeters W.H., Bezemer R., Long X., Paulussen I., Aarts R.M., Noordergraaf G.J. (2018). Finger and forehead PPG-derived pulse-pressure variation and the benefits of baseline correction. *Journal of Clinical Monitoring and Computing*, 33(1):65–75.
 
-- **Sun, S.**, Peeters W.H., Bezemer R., et al. (2017). [On algorithms for calculating arterial pulse pressure variation during major surgery](https://scholar.google.com/citations?user=NzjzczAAAAAJ&hl=en). *Physiological Measurement*, 38:2101–2121.
+- **Sun, S.**, Peeters W.H., Bezemer R., et al. (2017). On algorithms for calculating arterial pulse pressure variation during major surgery. *Physiological Measurement*, 38:2101–2121.
 
-- **Sun, S.**, Bezemer R., Long X., Muehlsteff J., Aarts R.M. (2016). [Systolic blood pressure estimation using PPG and ECG during physical exercise](https://scholar.google.com/citations?user=NzjzczAAAAAJ&hl=en). *Physiological Measurement*, 37:2154–2169.
+- **Sun, S.**, Bezemer R., Long X., Muehlsteff J., Aarts R.M. (2016). Systolic blood pressure estimation using PPG and ECG during physical exercise. *Physiological Measurement*, 37:2154–2169.
 
 ## Patents
 
 - **Sun, S.**, Peeters W.H., Bezemer R. Device, system and method for determining pulse pressure variation of a subject. *PCT — Granted in the US, UK, and Germany.*
 
 - **Sun, S.**, Peeters W.H., Bezemer R., Long X., Aarts R.M. A sensor system and sensing method for use in assessment of circulatory volume. *PCT — Granted in the US, UK, and Germany.*
+  
 # 🎓 Educations
 - *2013.09 - 2018.05*, PhD, Electrical Engineering, Eindhoven University of Technology, Netherlands
 - *2010.09 - 2013.06*, MSc, Signal and Information Processing, Dalian University of Technology, China (exempt from entrance exam)
