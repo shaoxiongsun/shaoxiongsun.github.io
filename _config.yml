@@ -7,10 +7,7 @@
 
 # Site Settings
 title                    : "Shaoxiong Sun"
-description              : "Personal homepage of Shaoxiong Sun Health data science
-Bedside and remote patient monitoring
-Wearable computing
-Cardiovascular monitoring"
+description              : "Personal homepage of Shaoxiong Sun"
 repository               : "shaoxiongsun.github.io"
 google_scholar_stats_use_cdn : true
 
