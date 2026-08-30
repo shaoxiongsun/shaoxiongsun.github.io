@@ -7,7 +7,10 @@
 
 # Site Settings
 title                    : "Shaoxiong Sun"
-description              : "Personal homepage of Shaoxiong Sun"
+description              : "Personal homepage of Shaoxiong Sun Health data science
+Bedside and remote patient monitoring
+Wearable computing
+Cardiovascular monitoring"
 repository               : "shaoxiongsun.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -43,7 +46,7 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : # e.g., "linkedin username"
+  linkedin         : "https://www.linkedin.com/in/shaoxiong-sun-0193b327/"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
