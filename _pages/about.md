@@ -30,12 +30,16 @@ My research interests primarily revolve around physiological and behavioural mon
 
 ### PhD Students
 
-- **[Xiaofei Zhang](链接)** (2025 – present): Mixed-effects deep learning for patient monitoring. [[Email]](mailto:xxx@sheffield.ac.uk)
-- **Lucy M Cheesman ** (2025 – present): Developing digital biomarkers for people with Multiple Sclerosis.
+- **Xiaofei Zhang** (2025 – present): Mixed-effects deep learning for patient monitoring. [[Email]](mailto:xzhang392@sheffield.ac.uk), (co-supervised with Prof. Vita Lanfranchi)
+- **Lucy M Cheesman** (2025 – present): Developing novel digital biomarkers for disease progression in multiple sclerosis. [[Email]](mailto:lmcheesman1@sheffield.ac.uk), (co-supervised with Prof. Vita Lanfranchi)
+- **Yuchen Wang** (2026 – present): Deep learning for machinery and human health monitoring. [[Email]](mailto:ywang1016@sheffield.ac.uk), (co-supervised with Dr. Xingyi Song)
+- **Konrad Kawka** (2024 – present): Developing novel digital biomarkers for mobility monitoring in multiple sclerosis. [[Email]](mailto:kkawka1@sheffield.ac.uk), (co-supervised with Prof. Vita Lanfranchi)
+- **Kacper F Sikorski** (2025 – present): Non-invasive continuous glucose monitoring via photoplethysmography (PPG). [[Email]](mailto:kfsikorski1@sheffield.ac.uk), (co-supervised with Dr Mohammad Eissa and Prof. Mohammed Benaissa)
+
 
 ### Visiting Scholars
 
-- **Ling Zhang 3** (2026): Research on data mining.
+- **Ling Zhang 3** (2026-present): Machine learning for remote mental health monitoring.
 
 
 
