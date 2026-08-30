@@ -15,11 +15,14 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
+
+
+
 <span class='anchor' id='about-me'></span>
 
-I am a Lecturer in Pervasive Data Science within the School of Computer Science at the University of Sheffield. Previously, I worked as a Senior Research Associate in Data Science for Mobile Health at King’s College London. I earned my PhD through a joint programme between Eindhoven University of Technology (TU/e) and Philips Research in the Netherlands, where his research focused on physiological monitoring. He earned his BSc and MSc from Harbin Institute of Technology and Dalian University of Technology, China, respectively.
+I am a Lecturer in Pervasive Data Science within the School of Computer Science at the University of Sheffield. Previously, I worked as a Senior Research Associate in Data Science for Mobile Health at King's College London. I earned my PhD through a joint programme between Eindhoven University of Technology (TU/e) and Philips Research in the Netherlands, where my research focused on physiological monitoring. I earned my BSc and MSc from Harbin Institute of Technology and Dalian University of Technology, China, respectively.
 
-I have authored over 30 peer-reviewed publications and holds two granted patents in the United States and Europe. I have served on the Technical Program Committees of IEEE CHASE and IEEE BSN, the Notes and Briefs track of Ubicomp/ISWC, and am a founding member of the IEEE Internet of Wearable Things Working Group. I also serve on the Editorial Board of BMC Global and Public Health and have been a Guest Editor for Frontiers in Signal Processing, Frontiers in Digital Health, Sensors, and Algorithms.
+I have authored over 30 peer-reviewed publications and hold two granted patents in the United States and Europe. I have served on the Technical Program Committees of IEEE CHASE and IEEE BSN, the Notes and Briefs track of Ubicomp/ISWC, and am a founding member of the IEEE Internet of Wearable Things Working Group. I also serve on the Editorial Board of BMC Global and Public Health and have been a Guest Editor for Frontiers in Signal Processing, Frontiers in Digital Health, Sensors, and Algorithms.
 
 My research interests primarily revolve around physiological and behavioural monitoring, leveraging advanced signal processing and machine learning methodologies. In the realm of physiological monitoring, I focus on estimating vital parameters such as blood pressure, heart rate, and respiration rate through the analysis of biomedical signals, such as photoplethysmography (PPG). In behavioural monitoring, my work centres on assessing mobility and social interaction patterns using wearable devices and smartphones. I have developed innovative technologies aimed at assisting individuals with a range of medical conditions, including depression, multiple sclerosis, epilepsy, ADHD, and COVID-19.
 
@@ -28,7 +31,6 @@ My research interests include:
 - Bedside and remote patient monitoring
 - Wearable computing
 - Cardiovascular monitoring
-
 <span class='anchor' id='team'></span>
 
 ## 👥 Team
