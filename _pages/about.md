@@ -24,6 +24,28 @@ I have authored over 30 peer-reviewed publications and holds two granted patents
 My research interests primarily revolve around physiological and behavioural monitoring, leveraging advanced signal processing and machine learning methodologies. In the realm of physiological monitoring, I focus on estimating vital parameters such as blood pressure, heart rate, and respiration rate through the analysis of biomedical signals, such as photoplethysmography (PPG). In behavioural monitoring, my work centres on assessing mobility and social interaction patterns using wearable devices and smartphones. I have developed innovative technologies aimed at assisting individuals with a range of medical conditions, including depression, multiple sclerosis, epilepsy, ADHD, and COVID-19.
 
 
+<span class='anchor' id='team'></span>
+
+## 👥 Team
+
+### PhD Students
+
+- **[Student Name](链接)** (2023 – present): Research on NLP and LLMs. [[Email]](mailto:xxx@sheffield.ac.uk)
+- **Student Name 2** (2024 – present): Research on multimodal learning.
+
+### Master Students
+
+- **Student Name 3** (2024): Research on data mining.
+
+### Alumni
+
+| Name | Degree | Year | Current |
+|------|--------|------|---------|
+| John Doe | PhD | 2023 | Postdoc @ Oxford |
+
+
+
+
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
