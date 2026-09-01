@@ -36,11 +36,11 @@ My research interests include:
 
 ### PhD Students
 
-- **Xiaofei Zhang** (2025 – present): Mixed-effects deep learning for patient monitoring. [[Email]](mailto:xzhang392@sheffield.ac.uk), (co-supervised with Prof. Vita Lanfranchi)
-- **Lucy M Cheesman** (2025 – present): Developing novel digital biomarkers for disease progression in multiple sclerosis. [[Email]](mailto:lmcheesman1@sheffield.ac.uk), (co-supervised with Prof. Vita Lanfranchi)
-- **Yuchen Wang** (2026 – present): Deep learning for machinery and human health monitoring. [[Email]](mailto:ywang1016@sheffield.ac.uk), (co-supervised with Dr. Xingyi Song)
-- **Konrad Kawka** (2024 – present): Developing novel digital biomarkers for mobility monitoring in multiple sclerosis. [[Email]](mailto:kkawka1@sheffield.ac.uk), (co-supervised with Prof. Vita Lanfranchi)
-- **Kacper F Sikorski** (2025 – present): Non-invasive continuous glucose monitoring via photoplethysmography (PPG). [[Email]](mailto:kfsikorski1@sheffield.ac.uk), (co-supervised with Dr Mohammad Eissa and Prof. Mohammed Benaissa)
+- **Xiaofei Zhang** (2025 – present): Mixed-effects deep learning for patient monitoring. (co-supervised with Prof. Vita Lanfranchi)
+- **Lucy M Cheesman** (2025 – present): Developing novel digital biomarkers for disease progression in multiple sclerosis. (co-supervised with Prof. Vita Lanfranchi)
+- **Yuchen Wang** (2026 – present): Deep learning for machinery and human health monitoring. (co-supervised with Dr. Xingyi Song)
+- **Konrad Kawka** (2024 – present): Developing novel digital biomarkers for mobility monitoring in multiple sclerosis. (co-supervised with Prof. Vita Lanfranchi)
+- **Kacper F Sikorski** (2025 – present): Non-invasive continuous glucose monitoring via photoplethysmography (PPG). (co-supervised with Dr Mohammad Eissa and Prof. Mohammed Benaissa)
 
 
 ### Visiting Scholars
