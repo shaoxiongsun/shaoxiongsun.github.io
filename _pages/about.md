@@ -98,7 +98,9 @@ Citations = 1372, h-index = 20 ([Google Scholar](https://scholar.google.com/cita
 - *2026.07*, Clinical Trial Units, University of Alberta, Canada, invited by Prof. Giovanni Ferrara
 - *2026.03*, AI in Medicine Seminar, UT Southwestern Medical Center, USA, invited by Dr. Ti Bai
 - *2025.07*, School of Biomedical Engineering, Sun Yat-sen University, China, invited by Prof. Changhong Wang
-  
+
+<span class='anchor' id='industrial-experience'></span>
+
 # 🏭 Industrial Experience
 - Metabolic monitoring, [Epicore Biosystems](https://epicorebiosystems.com/)
 - Heart rate monitoring, [Lifesense](https://lifesense.com/)
