@@ -88,7 +88,7 @@ Citations = 1372, h-index = 20 ([Google Scholar](https://scholar.google.com/cita
 
 - **Sun, S.**, Peeters W.H., Bezemer R., Long X., Aarts R.M. A sensor system and sensing method for use in assessment of circulatory volume. *PCT — Granted in the US, UK, and Germany.*
   
-# 🎓 Educations
+# 🎓 Education
 - *2013.09 - 2018.05*, PhD, Electrical Engineering, Eindhoven University of Technology, Netherlands
 - *2010.09 - 2013.06*, MSc, Signal and Information Processing, Dalian University of Technology, China (exempt from entrance exam)
 - *2006.08 - 2010.07*, BSc, Electronic Information Engineering, Harbin Institute of Technology, China,  
@@ -108,7 +108,7 @@ Citations = 1372, h-index = 20 ([Google Scholar](https://scholar.google.com/cita
 
 <span class='anchor' id='academic-service'></span>
 
-# 📖 Academic Service
+# 📖 Academic Services
 
 - **Associate Editor**, IEEE Journal of Biomedical and Health Informatics (JBHI)
 - **Editorial Board**, BMC Global and Public Health, Digital Medicine Letter
