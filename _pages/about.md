@@ -39,9 +39,10 @@ My research interests include:
 - **Xiaofei Zhang** (2025 – present): Mixed-effects deep learning for patient monitoring. (co-supervised with Prof. Vita Lanfranchi)
 - **Lucy M Cheesman** (2025 – present): Developing novel digital biomarkers for disease progression in multiple sclerosis. (co-supervised with Prof. Vita Lanfranchi)
 - **Yuchen Wang** (2026 – present): Deep learning for machinery and human health monitoring. (co-supervised with Dr. Xingyi Song)
+- **Henry Probo Santoso** (2026 - present): Edge AI for remote patient monitoring. (co-supervised with Dr. Nur Ahmadi)
 - **Konrad Kawka** (2024 – present): Developing novel digital biomarkers for mobility monitoring in multiple sclerosis. (co-supervised with Prof. Vita Lanfranchi)
 - **Kacper F Sikorski** (2025 – present): Non-invasive continuous glucose monitoring via photoplethysmography (PPG). (co-supervised with Dr Mohammad Eissa and Prof. Mohammed Benaissa)
-- **Henry Probo Santoso** (2026 - present): Edge AI for remote patient monitoring
+
 
 
 ### Visiting Scholars
