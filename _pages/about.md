@@ -19,11 +19,11 @@ redirect_from:
 
 # About Me
 
-I am a Lecturer in Pervasive Data Science within the School of Computer Science at the University of Sheffield. Previously, I worked as a Senior Research Associate in Data Science for Mobile Health at King's College London. I earned my PhD through a joint programme between Eindhoven University of Technology (TU/e) and Philips Research in the Netherlands, where my research focused on physiological monitoring. I earned my BSc and MSc from Harbin Institute of Technology and Dalian University of Technology, China, respectively.
+I am a Lecturer in Pervasive Data Science in the School of Computer Science at the University of Sheffield. Previously, I worked as a Senior Research Associate in Data Science for Mobile Health at King’s College London. I earned my PhD through a joint programme between Eindhoven University of Technology (TU/e) and Philips Research in the Netherlands, where my research focused on physiological monitoring. I obtained my BEng and MEng in Electrical Engineering from Harbin Institute of Technology and Dalian University of Technology, China, respectively.
 
-I have authored over 30 peer-reviewed publications and hold two granted patents in the United States and Europe. I have served on the Technical Program Committees of IEEE CHASE and IEEE BSN, the Notes and Briefs track of Ubicomp/ISWC, and am a founding member of the IEEE Internet of Wearable Things Working Group. I also serve on the Editorial Board of BMC Global and Public Health and have been a Guest Editor for Frontiers in Signal Processing, Frontiers in Digital Health, Sensors, and Algorithms.
+I have authored over 30 peer-reviewed publications and hold two granted patents in the United States and Europe. I have served on the Technical Program Committees of IEEE CHASE and IEEE BSN, as well as UbiComp/ISWC, and I am a founding member of the IEEE Internet of Wearable Things Working Group. I also serve as an Associate Editor for the IEEE Journal of Biomedical and Health Informatics and on the Editorial Board of BMC Global and Public Health. I am a Fellow of the Higher Education Academy and a member of the EPSRC Peer Review College.
 
-My research interests primarily revolve around physiological and behavioural monitoring, leveraging advanced signal processing and machine learning methodologies. In the realm of physiological monitoring, I focus on estimating vital parameters such as blood pressure, heart rate, and respiration rate through the analysis of biomedical signals, such as photoplethysmography (PPG). In behavioural monitoring, my work centres on assessing mobility and social interaction patterns using wearable devices and smartphones. I have developed innovative technologies aimed at assisting individuals with a range of medical conditions, including depression, multiple sclerosis, epilepsy, ADHD, and COVID-19.
+My research interests primarily revolve around physiological and behavioural monitoring, leveraging advanced signal processing and machine learning methodologies. In physiological monitoring, I focus on estimating vital parameters such as blood pressure, heart rate, and respiration rate through the analysis of biomedical signals, particularly photoplethysmography (PPG). In behavioural monitoring, my work centres on assessing mobility and social interaction patterns using wearable devices and smartphones. I have developed innovative technologies aimed at assisting individuals with a range of medical conditions, including depression, multiple sclerosis, epilepsy, ADHD, and COVID-19.
 
 My research interests include:
 - Health data science
@@ -41,11 +41,12 @@ My research interests include:
 - **Yuchen Wang** (2026 – present): Deep learning for machinery and human health monitoring. (co-supervised with Dr. Xingyi Song)
 - **Konrad Kawka** (2024 – present): Developing novel digital biomarkers for mobility monitoring in multiple sclerosis. (co-supervised with Prof. Vita Lanfranchi)
 - **Kacper F Sikorski** (2025 – present): Non-invasive continuous glucose monitoring via photoplethysmography (PPG). (co-supervised with Dr Mohammad Eissa and Prof. Mohammed Benaissa)
+- **Henry Probo Santoso** (2026 - present): Edge AI for remote patient monitoring
 
 
 ### Visiting Scholars
 
-- **[Ling Zhang](https://software.jxufe.edu.cn/news-show-2956.html)** (2026-present): Machine learning for remote mental health monitoring.
+- **Ling Zhang** (2026-present): Machine learning for remote mental health monitoring.
 
 
 <p style="color:red;">
@@ -115,9 +116,9 @@ Citations = 1372, h-index = 20 ([Google Scholar](https://scholar.google.com/cita
 - **Guest Editor**, 4 journals including Frontiers in Digital Health
 - **Founding Member and Area Chair**, The IEEE IoWT Working Group
 - **Grant Reviewer**, UK Medical Research Council, UK MS Society
-- **Journal Reviewer**, 15+ academic journals including IEEE JBHI, IEEE TBME, npj Digital Medicine, Scientific Reports, and JMIR
-- **Technical Programme Committee Member**, IEEE/ACM CHASE, IEEE BSN
-- **Conference Reviewer**, AAAI, Interspeech, Ubicomp, EMBC
+- **Journal Reviewer**, 15+ academic journals including IEEE JBHI, IEEE TBME, npj Digital Medicine, Lancet Digital Health, and JMIR
+- **Technical Programme Committee Member**, IEEE/ACM CHASE, IEEE BSN, Ubicomp
+- **Conference Reviewer**, Interspeech, Ubicomp, EMBC
 
 # 🎖 Honors and Awards
 - *2023* **Department Travel Grant**, King's College London
